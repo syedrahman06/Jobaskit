@@ -216,7 +216,7 @@ body {
     display: flex;
     width: 100%;
     padding: 42px 0 125px;
-    background: url(../images/jobaskitbg.png) no-repeat;
+    background: url(../images/compress.png) no-repeat;
     background-size: cover;
     justify-content: center;
     align-items: center;
@@ -906,6 +906,9 @@ body {
 .footer-top li {
     font-size: 14px;
     text-align: justify;
+    text-decoration: none !important;
+    text-transform: none;
+    outline: none;
 }
 
 
